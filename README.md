@@ -7,6 +7,8 @@ This project generates an HTML page that contains a list of my favourite movies 
 2. Extract the contents of the zip file
 3. Execute the code by running: `python.exe entertainment_center.py`
 
+NOTE: If the script fails to launch the browser, the page can be launched by opening `fresh_tomatoes.html` using a browser.
+
 # Project contents
 1. `media.py` - Contains the Movie class 
 2. `entertainment_center.py` - Contains the main function to be launched
