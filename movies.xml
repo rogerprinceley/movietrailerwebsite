@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<movies>
+    <movie name="Megamind">
+        <year>2010</year>
+        <storyline>The supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life.</storyline>
+        <poster>https://upload.wikimedia.org/wikipedia/en/8/89/Megamind2010Poster.jpg</poster>
+        <trailer>https://www.youtube.com/watch?v=NPI0eatlo_M</trailer>
+    </movie>
+    <movie name="Scott Pilgrim vs. the World">
+        <year>2010</year>
+        <storyline>Scott Pilgrim must defeat his new girlfriend's seven evil exes in order to win her heart.</storyline>
+        <poster>https://upload.wikimedia.org/wikipedia/en/1/14/Scott_Pilgrim_vs._the_World_teaser.jpg</poster>
+        <trailer>https://www.youtube.com/watch?v=O_RrNCqCIPE</trailer>
+    </movie>
+    <movie name="The Dark Knight">
+        <year>2008</year>
+        <storyline>When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.</storyline>
+        <poster>https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg</poster>
+        <trailer>https://www.youtube.com/watch?v=EXeTwQWrcwY</trailer>
+    </movie>
+    <movie name="Saving Private Ryan">
+        <year>1998</year>
+        <storyline>Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.</storyline>
+        <poster>https://upload.wikimedia.org/wikipedia/en/a/ac/Saving_Private_Ryan_poster.jpg</poster>
+        <trailer>https://www.youtube.com/watch?v=vwAxi4A2YcY</trailer>
+    </movie>
+    <movie name="Leon: The Professional">
+        <year>1994</year>
+        <storyline>Mathilda, a 12-year-old girl, is reluctantly taken in by Leon, a professional assassin, after her family is murdered. Leon and Mathilda form an unusual relationship, as she becomes his protegee and learns the assassin's trade.</storyline>
+        <poster>https://upload.wikimedia.org/wikipedia/en/0/03/Leon-poster.jpg</poster>
+        <trailer>https://www.youtube.com/watch?v=yRABrgRcn5Y</trailer>
+    </movie>
+    <movie name="Snatch">
+        <year>2000</year>
+        <storyline>Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.</storyline>
+        <poster>http://t3.gstatic.com/images?q=tbn:ANd9GcT99CTVO4nyRGm0UcmDLo7Gv_InmxIoJkVlCDB1pdHho_vYjpig</poster>
+        <trailer>https://www.youtube.com/watch?v=ni4tEtuTccc</trailer>
+    </movie>
+</movies>
