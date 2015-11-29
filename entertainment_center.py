@@ -6,8 +6,9 @@ This data is a list of movies that is used to generate an HTML page using
 fresh_tomatoes code.
 """
 
-# Local Files
+# Builtin modules
 import xml.etree.ElementTree as ElementTree
+# Local Files
 from media import Movie
 import fresh_tomatoes
 
